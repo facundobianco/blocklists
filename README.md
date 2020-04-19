@@ -12,6 +12,10 @@ It happens due [IP addresses in list](https://discourse.pi-hole.net/t/list-downl
 
 This repo is created to add the rules I use and then will be used by PiHole.
 
+## Whitelist
+
+Domain "*raw.githubuser.com*" must be on *Whitelist* ([source](https://discourse.pi-hole.net/t/cant-update-most-of-my-lists/14628/9)).
+
 ## Next steps
 
 * [ ] Create an script to pull files/repos and clean up for PiHole
